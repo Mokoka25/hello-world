@@ -1,2 +1,4 @@
-Koketso Rangaka# hello-world
+# hello-world
 GitHub Flow
+about myself
+Koketso rangaka
